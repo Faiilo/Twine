@@ -2,12 +2,12 @@
 1. Добавление раздела [[Дальше]]
 2. Добавление картинки персонажа <img src = "https://github.com/Faiilo/Twine/blob/main/task_01k8fx7mfke24agvxzcq7w1m1n_1761470635_img_0-edited-free%20(carve.photos).png?raw=true">
 ```
-<img src = "https://github.com/Z1Dipex/Twine/blob/main/kandinsky-download-1761045140574-no-bg-preview%20(carve.photos).png?raw=true">
+<img src = "https://github.com/Faiilo/Twine/blob/main/task_01k8fx7mfke24agvxzcq7w1m1n_1761470635_img_0-edited-free%20(carve.photos).png?raw=true">
 ```
 3. Добавление фона 
 ```
 tw-story {
-  background-image: url('https://github.com/Z1Dipex/Twine/blob/main/image.png?raw=true');
+  background-image: url('https://github.com/Faiilo/Twine/blob/main/task_01k8fy32hzecjbn1t7dtec2k8d_1761471551_img_1.webp?raw=true');
     background-size: cover
 }
 ```
