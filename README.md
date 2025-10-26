@@ -1,6 +1,6 @@
 # Twine
 1. Добавление раздела [[Дальше]]
-2. Добавление картинки персонажа <img src = "https://github.com/Z1Dipex/Twine/blob/main/kandinsky-download-1761045140574-no-bg-preview%20(carve.photos).png?raw=true](https://github.com/Faiilo/Twine/blob/main/task_01k8fx7mfke24agvxzcq7w1m1n_1761470635_img_0-edited-free%20(carve.photos).png?raw=true)">
+2. Добавление картинки персонажа <img src = "https://github.com/Faiilo/Twine/blob/main/task_01k8fx7mfke24agvxzcq7w1m1n_1761470635_img_0-edited-free%20(carve.photos).png?raw=true">
 ```
 <img src = "https://github.com/Z1Dipex/Twine/blob/main/kandinsky-download-1761045140574-no-bg-preview%20(carve.photos).png?raw=true">
 ```
